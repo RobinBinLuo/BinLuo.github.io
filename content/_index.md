@@ -85,10 +85,10 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Honors
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Honors/Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -98,62 +98,99 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+      # Honors/Awards: 
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-05-25'
+          description: 'Top 10%'
+          icon: Sun Yat-sen University
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: Sun Yat-sen University Outstanding Undergraduate Thesis Award
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          description: Top 7% in the world
+          icon: COMAP
+          organization: COMAP
+          organization_url: https://www.comap.com/contests/mcm-icm
+          title: Meritorious Winner, Mathematical Contest in Modeling
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: ''
+          date_end: '2021-07-01'
+          date_start: '2020-09-01'
+          description: 'Top 5%'
+          icon: Sun Yat-sen University
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: SYSU Outstanding Student First Class Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: '2022-07-01'
+          date_start: '2021-09-01'
+          description: 'Top 10%'
+          icon: Sun Yat-sen University
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: SYSU Outstanding Student Second Class Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: '2020-07-01'
+          date_start: '2019-09-01'
+          description: 'Top 10%'
+          icon: Sun Yat-sen University
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: SYSU Outstanding Student Second Class Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: '2021-07-01'
+          date_start: '2019-09-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: Sun Yat-sen University
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: Excellent Student Cadre of School of Mathematics, SYSU
+          url: ''
+        - certificate_url: ''
+          date_end: '2021-07-01'
+          date_start: '2019-09-01'
+          description: ''
+          icon: Sun Yat-sen University
+          organization: Sun Yat-sen University
+          organization_url: https://www.sysu.edu.cn/
+          title: Outstanding Volunteers of School of Mathematics, SYSU
           url: ''
     design:
       columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -234,8 +271,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
