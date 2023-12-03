@@ -67,17 +67,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 100
+        percent: 80
         icon: python
         icon_pack: fab
       - name: MATLAB
         description: ''
-        percent: 100
+        percent: 75
         icon: gear
         icon_pack: fas
       - name: LATEX
         description: ''
-        percent: 100
+        percent: 60
         icon: leaf
         icon_pack: fas
   - name: Hobbies
@@ -122,7 +122,7 @@ social:
     link: https://github.com/RobinBinLuo
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/RobinBinLuo417
+    link: www.linkedin.com/in/robinbinluo417
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
