@@ -33,24 +33,24 @@ interests:
   - Quantum Internet
   - Optimization (Convex Optimization/Stochastic Optimization)
 
-# Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. student
-      institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
-      year: August 2023 -- Present
-    - course: Bachelor of Science
-      institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
-      year: September 2019 -- June 2023
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: Ph.D. student
+#       institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
+#       year: August 2023 -- Present
+#     - course: Bachelor of Science
+#       institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
+#       year: September 2019 -- June 2023
 
-# Honors & Awards
-Honors/Awards: 
-  - Sun Yat-sen University University Outstanding Undergraduate Thesis Award (Top 10%), 2023
-  - Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world), 2021
-  - SYSU Outstanding Student First Class Scholarship (Top 5%), 2021
-  - Excellent Student Cadre of School of Mathematics, SYSU, 2020,2021 
-  - Outstanding Volunteers of School of Mathematics, SYSU, 2020,2021
-  - SYSU Outstanding Student Second Class Scholarship (Top 10%), 2020,2022
+# # Honors & Awards
+# Honors/Awards: 
+#   - Sun Yat-sen University University Outstanding Undergraduate Thesis Award (Top 10%), 2023
+#   - Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world), 2021
+#   - SYSU Outstanding Student First Class Scholarship (Top 5%), 2021
+#   - Excellent Student Cadre of School of Mathematics, SYSU, 2020,2021 
+#   - Outstanding Volunteers of School of Mathematics, SYSU, 2020,2021
+#   - SYSU Outstanding Student Second Class Scholarship (Top 10%), 2020,2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
