@@ -35,6 +35,7 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
     - course: Ph.D. student
       institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
       year: August 2023 -- Present
