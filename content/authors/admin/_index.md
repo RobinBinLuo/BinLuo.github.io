@@ -31,17 +31,17 @@ bio: I am currently a Ph.D. student at the department of [Computer Science and E
 # Research Interests
 interests:
   - Quantum Internet
-  - Optimization (Convex Optimization/Stochastic Optimization)
+  - Optimization
 
-# # Education to show in About widget
-# education:
-#   courses:
-#     - course: Ph.D. student
-#       institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
-#       year: August 2023 -- Present
-#     - course: Bachelor of Science
-#       institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
-#       year: September 2019 -- June 2023
+# Education to show in About widget
+education:
+  courses:
+    - course: Ph.D. student
+      institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
+      year: August 2023 - Present
+    - course: Bachelor of Science
+      institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
+      year: September 2019 - June 2023
 
 # # Honors & Awards
 # Honors/Awards: 
