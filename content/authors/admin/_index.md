@@ -122,7 +122,7 @@ social:
     link: https://github.com/RobinBinLuo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/bin-luo-4238682a0/
+    link: www.linkedin.com/in/RobinBinLuo417
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -134,5 +134,5 @@ social:
 highlight_name: true
 ---
 
-Robin Bin Luo is a Ph.D. student at the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of [Choh-Ming Li Chair Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) in Hong Kong. His research interests include Quantum Internet and Optimization (Convex Optimization/ Stochastic Optimization). He is also a member of [Advanced Networking and System Research Laboratory (ANSR Lab)](http://ansrlab.cse.cuhk.edu.hk) led by [Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/).
+Robin Bin Luo is a Ph.D. student at the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of [Choh-Ming Li Chair Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) in Hong Kong. His research interests include Quantum Internet and Optimization (Convex Optimization/ Stochastic Optimization). He is also a member of [Advanced Networking and System Research Laboratory (ANSR Lab)](http://ansrlab.cse.cuhk.edu.hk) led by [Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). He received his bachelor's degree from the School of Mathematics at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn), majoring in Mathematics and Applied Mathematics. 
 {style="text-align: justify;"}
