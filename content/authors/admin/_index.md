@@ -1,50 +1,57 @@
 ---
 # Display name
-title: 吳健雄
+title: Robin Bin Luo 罗彬
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: LUO BIN
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bin
+last_name: Luo
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+  icon: 🤯
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/chinese/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a Ph.D. student at the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of [Choh-Ming Li Chair Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) in Hong Kong, where I work on Quantum Internet. I am also a member of [Advanced Networking and System Research Laboratory (ANSR Lab)](http://ansrlab.cse.cuhk.edu.hk) led by [Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/).  
+I received my bachelor's degree from the School of Mathematics at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn), majoring in Mathematics and Applied Mathematics. 
 
 # Interests to show in About widget
+# Research Interests
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Internet
+  - Optimization (Convex Optimization/Stochastic Optimization)
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. student
+      institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
+      year: August 2023 -- Present
+    - course: Bachelor of Science
+      institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
+      year: September 2019 -- June 2023
+
+# Honors & Awards
+Honors/Awards: 
+  - Sun Yat-sen University University Outstanding Undergraduate Thesis Award (Top 10%), 2023
+  - Meritorious Winner, Mathematical Contest in Modeling (Top 7% in the world), 2021
+  - SYSU Outstanding Student First Class Scholarship (Top 5%), 2021
+  - Excellent Student Cadre of School of Mathematics, SYSU, 2020,2021 
+  - Outstanding Volunteers of School of Mathematics, SYSU, 2020,2021
+  - SYSU Outstanding Student Second Class Scholarship (Top 10%), 2020,2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,32 +60,32 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: MATLAB
         description: ''
         percent: 100
-        icon: chart-line
+        icon: gear
         icon_pack: fas
-      - name: SQL
+      - name: LATEX
         description: ''
-        percent: 40
-        icon: database
+        percent: 100
+        icon: leaf
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travel
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
-        icon: cat
+        icon: headphones
         icon_pack: fas
       - name: Photography
         description: ''
@@ -93,32 +100,32 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:bluo23@cse.cuhk.edu.hk'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/RobinBinLuo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/bin-luo-4238682a0/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Resume_Bin Luo.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Robin Bin Luo is a Ph.D. student at the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of [Choh-Ming Li Chair Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) in Hong Kong. His research interests include Quantum Internet and Optimization (Convex Optimization/ Stochastic Optimization). He is also a member of [Advanced Networking and System Research Laboratory (ANSR Lab)](http://ansrlab.cse.cuhk.edu.hk) led by [Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/).
 {style="text-align: justify;"}
