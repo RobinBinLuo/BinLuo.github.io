@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Robin Bin Luo 罗彬
+title: Bin Luo
 
 # Name pronunciation (optional)
-name_pronunciation: LUO BIN
+# name_pronunciation: LUO BIN
 
 # Full name (for SEO)
 first_name: Bin
@@ -36,12 +36,23 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. student
-      institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
-      year: August 2023 - Present
-    - course: Bachelor of Science
-      institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
-      year: September 2019 - June 2023
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
+# education:
+#   courses:
+#     - course: Ph.D. student
+#       institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
+#       year: August 2023 - Present
+#     - course: Bachelor of Science
+#       institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
+#       year: September 2019 - June 2023
 
 # # Honors & Awards
 # Honors/Awards: 
