@@ -36,15 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD student
+      institution: The Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)
+      year: 2023-Present
+    - course: Bachelor of Science
+      institution: The School of Mathematics, Sun Yat-sen University (SYSU)
+      year: 2019-2023
 # education:
 #   courses:
 #     - course: Ph.D. student
