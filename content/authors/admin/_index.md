@@ -25,8 +25,7 @@ organizations:
     url: https://www.cuhk.edu.hk/chinese/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a Ph.D. student at the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of [Choh-Ming Li Chair Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) in Hong Kong, where I work on Quantum Internet. I am also a member of [Advanced Networking and System Research Laboratory (ANSR Lab)](http://ansrlab.cse.cuhk.edu.hk) led by [Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/).  
-I received my bachelor's degree from the School of Mathematics at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn), majoring in Mathematics and Applied Mathematics. 
+bio: I am currently a Ph.D. student at the department of [Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk) at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html) under the supervision of [Choh-Ming Li Chair Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) in Hong Kong, where I work on Quantum Internet. I am also a member of [Advanced Networking and System Research Laboratory (ANSR Lab)](http://ansrlab.cse.cuhk.edu.hk) led by [Professor John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). I received my bachelor's degree from the School of Mathematics at [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn), majoring in Mathematics and Applied Mathematics. 
 
 # Interests to show in About widget
 # Research Interests
