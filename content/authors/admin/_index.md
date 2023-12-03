@@ -37,10 +37,10 @@ interests:
 education:
   courses:
     - course: PhD student
-      institution: The Department of Computer Science and Engineering (CSE), The Chinese University of Hong Kong (CUHK)
+      institution: [The Department of Computer Science and Engineering (CSE)](https://www.cse.cuhk.edu.hk), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html)
       year: 2023-Present
     - course: Bachelor of Science
-      institution: The School of Mathematics, Sun Yat-sen University (SYSU)
+      institution: The School of Mathematics, [Sun Yat-sen University (SYSU)](https://www.sysu.edu.cn)
       year: 2019-2023
 # education:
 #   courses:
