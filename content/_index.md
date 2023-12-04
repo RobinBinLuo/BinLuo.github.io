@@ -279,7 +279,7 @@ sections:
       # appointment_url: 'https://calendly.com'
       address:
         street: Room 904, Ho Sin-Hang Engineering Building, CUHK
-        city: Hong Kong
+        city: Sha Tin
         region: Hong Kong
         # postcode: '94305'
         country: China
@@ -290,8 +290,8 @@ sections:
         - 'Weekend 14:00 to 22:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '22.28056'
-        longitude: '114.17222'
+        latitude: '22.25'
+        longitude: '114.12'
       contact_links:
         # - icon: twitter
         #   icon_pack: fab
