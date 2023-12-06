@@ -208,8 +208,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Quantum Network
+          tag: Quantum Network
         - name: Other
           tag: Demo
     design:
